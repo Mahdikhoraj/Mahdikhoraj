@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
 ### Front-End
 <p align="center">
@@ -30,6 +30,11 @@
 ### Programming
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 </p>
 
 ### Currently Learning
