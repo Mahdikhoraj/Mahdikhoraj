@@ -23,23 +23,53 @@
 ## 🛠️ Skills & Tools
 
 ### Front-End
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
 </p>
 
+<p align="center">
+  HTML &nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp; JavaScript
+</p>
+
+---
+
 ### Programming
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+  Python
 </p>
 
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  Git &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; GitHub
+</p>
+
+---
+
 ### Currently Learning
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">
+  TensorFlow
 </p>
 
 ---
